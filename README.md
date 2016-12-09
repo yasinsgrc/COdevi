@@ -1,0 +1,2 @@
+# COdevi
+Odev yedegi
